@@ -32,6 +32,7 @@ h2 {
 }
 
 .threevert {
+  height: 33.3%;
 }
 
 .threehoriz {
@@ -58,6 +59,19 @@ h2 {
 /* Colors */
 
 /* QUESTION 1 */
+
+/* I added these first 3 classes and ids */
+.red {
+  background-color: red;
+}
+
+#white {
+  background-color: white;
+}
+
+.light-blue {
+  background-color: lightblue;
+}
 
 .orange {
   background-color: orange;
@@ -147,6 +161,12 @@ h2 {
 
 .mexico-red {
   background-color: #ce1126;
+}
+
+/* QUESTION 5 */
+.label:hover {
+  transform: scale(1.5);
+  color: blue;
 }
 
 /* QUESTION 6 */
