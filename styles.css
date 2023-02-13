@@ -154,9 +154,8 @@ h2 {
 .mexico-img {
   /* TODO */
   background-image: url("eagle.png");
-  max-height: 100px;
-  max-width: 100px;
-  align-self: middle;
+  max-height: 300px;
+  max-width: 33.3%;
 }
 
 .mexico-red {
@@ -166,7 +165,7 @@ h2 {
 /* QUESTION 5 */
 .label:hover {
   transform: scale(1.5);
-  color: blue;
+  color: pink;
 }
 
 /* QUESTION 6 */
@@ -179,7 +178,7 @@ h2 {
   justify-content: center;
 }
 
-/* For margin practice */
+/* For margin practice (optional) */
 .flag1 {
   background-color: red;
   /* TODO */
