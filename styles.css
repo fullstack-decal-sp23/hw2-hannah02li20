@@ -95,14 +95,23 @@ h2 {
 
 .thailand-red {
   /* TODO */
+  height: 50px;
+  width: 500px;
+  background-color: #B5002D
 }
 
 .thailand-white {
   /* TODO */
+  height: 50px;
+  width: 500px;
+  background-color: white
 }
 
 .thailand-blue {
   /* TODO */
+  height: 100px;
+  width: 500px;
+  background-color: #2E2A4C
 }
 
 /* END QUESTION 2 */
@@ -130,6 +139,10 @@ h2 {
 
 .mexico-img {
   /* TODO */
+  background-image: url("eagle.png");
+  max-height: 100px;
+  max-width: 100px;
+  align-self: middle;
 }
 
 .mexico-red {
