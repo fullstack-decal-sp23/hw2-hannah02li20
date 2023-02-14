@@ -153,7 +153,8 @@ h2 {
 
 .mexico-img {
   /* TODO */
-  background-image: url("eagle.png");
+  margin: 10px;
+  align-self: center;
   max-height: 300px;
   max-width: 33.3%;
 }
@@ -165,7 +166,7 @@ h2 {
 /* QUESTION 5 */
 .label:hover {
   transform: scale(1.5);
-  color: pink;
+  color: orangered;
 }
 
 /* QUESTION 6 */
@@ -182,11 +183,13 @@ h2 {
 .flag1 {
   background-color: red;
   /* TODO */
+  margin-right:5px;
 }
 
 .flag2 {
   background-color: blue;
   /* TODO */
+  margin-left:5px;
 }
 /* For padding practice */
 .padding-container {
